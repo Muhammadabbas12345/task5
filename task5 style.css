@@ -1,0 +1,192 @@
+ body{
+     padding: 3%;
+ }
+ /* srart sec1 */
+ 
+ .sec1{
+    background-color: rgb(34, 54, 117);
+    color: white ;
+    
+}
+.maindiv1{
+    float: right;
+    padding: 2%;
+}
+.maindiv1 button{
+    background-color: blue;
+    color: white;
+
+}
+
+.maindiv1 p{
+    margin-left: 100px;
+
+}
+.sec1 .div1{
+padding: 5%;
+}
+.div1 p{
+     margin-left: 4%; 
+    position: relative;
+    bottom: 10px;
+}
+.div2{
+    display: flex;
+    width: 100%;
+}
+
+.div2 button{
+   
+margin-left: 5px;
+    height: 70px;
+    width: 100%;
+    position: relative;
+    right: 2.5px;
+    font-size: 20px;
+   
+}
+
+/* ent sec1 */
+
+/* sec2 start */
+
+.sec2{
+    padding-top: 1px;
+}
+.maindiv2{
+    display: flex;
+}
+.div3{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+}
+
+.div4{
+    background-color: rgb(43, 226, 119);
+    height: 300px;
+    width: 300px;
+}
+
+.div5{
+    background-color: rgb(43, 183, 226);
+    height: 300px;
+    width: 600px;
+}
+
+.div6{
+    background-color: rgb(226, 43, 43);
+    height: 600px;
+    width: 1000px;
+}
+.maindiv3{
+    display: flex;
+}
+/* END SEC2 */
+
+/* sec 3 start */
+.div7{
+    display: flex;
+    width: 100%;
+}
+
+.div7 button{
+   background-color: rgb(36, 62, 110);
+    text-align: left;
+        height: 70px;
+        width: 100%;
+      color: white;
+        font-size: 20px;
+       
+    }
+    .maindiv4{
+        display: flex;
+
+    }
+
+    .div8{
+       
+        border: 2px solid black;
+    }
+
+    .div8 p{
+        text-align: center;
+    }
+    
+    .div9{
+        border: 2px solid black;
+        border-left: none;
+    }
+    .div9 p{
+        text-align: center;
+    }
+    .div9 h1{
+        color: red;
+        text-align: center;
+    }
+    .div9 button{
+       background-color: rgb(43, 43, 116);
+       color: white;
+        margin: 20px;
+        float: right;
+    }
+    .div10{
+        border: 2px solid black;
+        border-left: none;
+        /* padding: 10px; */
+        
+       
+    }
+    .div10 p{
+        text-align: center;
+    }
+    .div11{
+        background-color: rgb(180, 180, 170);
+        border: 1px solid black;
+        margin-bottom: 3px;
+        
+      
+    }
+
+    .div12{
+        display: flex;
+       
+      
+     
+        
+       
+    }
+    
+    .div12 input{
+        height: 20px;
+        margin: 10px;
+    }
+
+    .div12 button{
+        height: 20px;
+        margin: 8px;
+        background-color: rgb(66, 66, 165);
+        color: white;
+    }
+    .div13{
+        padding: 5px;
+        background-color: orangered;
+    color: white;
+    
+    }
+
+    .div13 p{
+        text-align: left;
+    }
+    .div14{
+        display: flex;
+        background-color: rgb(49, 49, 128);
+        
+    }
+    .div14 ul{
+       position: relative;
+       left: 30%;
+
+    }
+
+    
